@@ -9,4 +9,9 @@ Considered 3 profiles :
 2. the “long-runner” who open more and more data, slowly but regulargly
 3. the "down-slopper" who open less and less data accross the years.
 
+## Result 
+
+⚠️ The plot is a just a first work-in-progress graph ! Code, DataComputation are to be revised by others. 
+
+
    
