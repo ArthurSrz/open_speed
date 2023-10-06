@@ -13,5 +13,4 @@ Considered 3 profiles :
 
 ⚠️ The plot is a just a first work-in-progress graph ! Code, DataComputation are to be revised by others. 
 
-
-   
+![](https://github.com/ArthurSrz/open_speed/blob/main/category_counts_bargraph.png)
